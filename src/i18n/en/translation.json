@@ -1,0 +1,21 @@
+{
+    "appTitle": "Take Note App",
+    "addNote": "Add New Note",
+    "editNote": "Edit Note",
+    "deleteNote": "Delete Note",
+    "noteTitle": "Title",
+    "noteContent": "Content",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirmDelete": "Are you sure you want to delete this not?",
+    "noNotes": "No notes to display.",
+    "inputName": "Input Your Name.",
+    "footer": "CopyRight 2023.",
+    "titleRequired" : "You need to write the title",
+    "textRequired" : "You need to write the content",
+    "hello" : "Hello",
+    "prump" : "please enter your name"
+
+    
+    
+  }
